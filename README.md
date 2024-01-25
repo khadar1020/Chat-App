@@ -1,3 +1,5 @@
+you can just make some files into components and run on the local machine
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
